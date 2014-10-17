@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[enw:home|Door43 (enw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-enw|d43-enw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-enw/archive/master.zip|d43-enw.zip]]
+
+**Recent Changes**
+{{changes>ns = enw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/enw|Ethnologue data]]
+
